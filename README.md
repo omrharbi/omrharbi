@@ -37,7 +37,7 @@ Passionate about technology and innovation, I aim to contribute to impactful pro
 
   <!-- Repository 2: mini-framework -->
   <a href="https://github.com/omrharbi/mini-framework">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-  framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
   </a>
 
   <!-- Repository 3: social-network -->
@@ -46,4 +46,4 @@ Passionate about technology and innovation, I aim to contribute to impactful pro
   </a>
 </p>
 
-<a href="https://github.com/your-username?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/omrharbi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
