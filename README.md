@@ -32,13 +32,17 @@ Passionate about technology and innovation, I aim to contribute to impactful pro
 <p align="center">
   <!-- Add your repositories here -->
   <a href="https://github.com/omrharbi/graphql">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=graphql&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="social-network"/>
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=graphql&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="GraphQL Repo"/>
   </a>
- <a href="https://github.com/omrharbi/social-network">
-    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=social-network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Social Network Repo"/>
-</a>
-  <a href="https://github.com/your-username/your-repo-3">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo-3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Your Repo 3" />
+
+  <!-- Repository 2: mini-framework -->
+  <a href="https://github.com/omrharbi/mini-framework">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
+  </a>
+
+  <!-- Repository 3: social-network -->
+  <a href="https://github.com/omrharbi/social-network">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=social-network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Social Network Repo"/>
   </a>
 </p>
 
