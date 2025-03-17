@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
+  <a href="#" target="_blank">
     Omar Rharbi
   </a>
 </h1>
