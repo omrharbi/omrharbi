@@ -4,11 +4,8 @@
   </a>
 </h1>
 
-[![Website](https://img.shields.io/badge/Website-jpaefra.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](http://jpaefra.com)
-[![Blog](https://img.shields.io/badge/Blog-jpaefra.com/blog-informational?style=flat-square&color=FAEEE7&logo=krita&logoColor=white)](http://jpaefra.com/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Mail](https://img.shields.io/badge/Gmail-your-email-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:your-email@example.com?subject=Hey!)
-
+  [![LinkedIn](https://www.linkedin.com/in/omar-rharbi-899679168/)
+ 
 <br>
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
