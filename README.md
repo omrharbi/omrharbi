@@ -1,7 +1,5 @@
 <h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="Omar+Rharbi" alt="Title GitHub Readme" />
-  </a>
+    Omar Rharbi
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rharbi-899679168/)
