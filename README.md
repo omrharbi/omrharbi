@@ -37,7 +37,7 @@ Passionate about technology and innovation, I aim to contribute to impactful pro
 
   <!-- Repository 2: mini-framework -->
   <a href="https://github.com/omrharbi/mini-framework">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-  framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
   </a>
 
   <!-- Repository 3: social-network -->
