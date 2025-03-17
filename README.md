@@ -1,7 +1,8 @@
 <h1 style="text-align: center;">
-    Omar Rharbi
+<a href="https://git.io/typing-svg" target="_blank">
+<img src="font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=Omar+Rharbi" alt="Title GitHub Readme" />
+</a>
 </h1>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rharbi-899679168/)
  
 <br>
