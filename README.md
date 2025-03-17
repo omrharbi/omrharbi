@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-  [![LinkedIn](https://www.linkedin.com/in/omar-rharbi-899679168/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rharbi-899679168/)
  
 <br>
 
