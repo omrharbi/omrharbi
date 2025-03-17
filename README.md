@@ -31,8 +31,8 @@ Passionate about technology and innovation, I aim to contribute to impactful pro
 
 <p align="center">
   <!-- Add your repositories here -->
-  <a href="https://github.com/omrharbi/graphql">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=graphql&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="GraphQL Repo"/>
+  <a href="https://github.com/omrharbi/real-time-forum">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=real-time-forum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Real Time Forum Repo"/>
   </a>
 
   <!-- Repository 2: mini-framework -->
