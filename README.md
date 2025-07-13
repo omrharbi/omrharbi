@@ -9,21 +9,46 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-My name is **Omar Rharbi**, a passionate and motivated learner at **Zone 01 Oujda**, an innovative coding school based on peer-to-peer learning and project-based education. I thrive in solving complex problems, building creative solutions, and continuously improving my skills in software development.
+# 👨‍💻 Omar Rharbi
 
-I'm currently training at Zone 01 Oujda, where I'm expanding my expertise in both frontend and backend development. With skills in **HTML, CSS, JavaScript, Next.js, Node.js, Golang, SQL Server, and MySQL**, I'm dedicated to building comprehensive solutions and mastering full-stack programming.
+**Software Developer | Passionate Learner at Zone 01 Oujda**
 
-💡 **What I Do:**
-- Learning and mastering programming concepts through real-world projects
-- Collaborating with peers to develop efficient and scalable solutions
-- Exploring new technologies and staying up to date with industry trends
+Currently training at **Zone 01 Oujda**, an innovative peer-to-peer coding school focused on project-based learning. I’m passionate about solving complex problems, building creative digital solutions, and growing as a full-stack developer.
 
-🔍 **Interests & Skills:**
-- 🔹 Problem-Solving | Algorithms | Software Development
-- 🔹 Web Development | Backend & Frontend
-- 🔹 Continuous Learning & Innovation
+---
 
-Passionate about technology and innovation, I aim to contribute to impactful projects and continuously improve my coding skills. I'm excited to connect with other tech professionals and explore new opportunities within the industry.
+## 🚀 What I Do
+
+- 🧠 Learn by building real-world, hands-on projects  
+- 🤝 Collaborate with peers to develop efficient, scalable apps  
+- 🔍 Explore new tools, frameworks, and trends in tech  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+- HTML, CSS, JavaScript, **Next.js**
+
+### ⚙️ Backend
+- **Node.js**, **Golang**, **Rust**, **Java**
+
+### 🗄️ Databases
+- **SQL Server**, **MySQL**
+
+---
+
+## 🎯 Skills & Interests
+
+- ✅ Problem Solving & Algorithms  
+- ✅ Full-Stack Web Development  
+- ✅ Continuous Learning & Innovation  
+
+---
+
+## 🤝 Let’s Connect
+
+I'm always open to collaborating on meaningful projects, learning from others, and contributing to the tech community.
 
 ---
 
