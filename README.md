@@ -6,49 +6,50 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rharbi-899679168/) 
 <br>
+# 👋 Hi, I'm Omar Rharbi
 
-# Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
+🚀 **Software Developer** and passionate learner at [**Zone 01 Oujda**](https://zone01oujda.ma), an innovative coding school based on peer-to-peer learning and real-world, project-based education.
 
-# 👨‍💻 Omar Rharbi
-
-**Software Developer | Passionate Learner at Zone 01 Oujda**
-
-Currently training at **Zone 01 Oujda**, an innovative peer-to-peer coding school focused on project-based learning. I’m passionate about solving complex problems, building creative digital solutions, and growing as a full-stack developer.
+I specialize in building robust web applications, solving complex problems, and continuously evolving as a **full-stack developer** — from **Frontend ➜ Backend**.
 
 ---
 
-## 🚀 What I Do
+## 💡 What I Do
 
-- 🧠 Learn by building real-world, hands-on projects  
-- 🤝 Collaborate with peers to develop efficient, scalable apps  
-- 🔍 Explore new tools, frameworks, and trends in tech  
+- 🛠 Learning and mastering programming concepts through real-world projects  
+- 🤝 Collaborating with peers to build scalable, efficient solutions  
+- 🔍 Exploring new technologies and staying up to date with industry trends  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills & Tools
 
 ### 🌐 Frontend
-- HTML, CSS, JavaScript, **Next.js**
+`HTML` · `CSS` · `JavaScript` · `Next.js`
 
 ### ⚙️ Backend
-- **Node.js**, **Golang**, **Rust**, **Java**
+`Node.js` · `Golang` · `Rust` · `Java`
 
 ### 🗄️ Databases
-- **SQL Server**, **MySQL**
+`SQL Server` · `MySQL`
 
 ---
 
-## 🎯 Skills & Interests
+## 🎯 Interests
 
-- ✅ Problem Solving & Algorithms  
-- ✅ Full-Stack Web Development  
-- ✅ Continuous Learning & Innovation  
+- 🧩 Problem Solving · Algorithms  
+- 💻 Software & Web Development  
+- 📚 Continuous Learning & Innovation  
+- 🌍 Contributing to impactful, real-world projects  
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect!
 
-I'm always open to collaborating on meaningful projects, learning from others, and contributing to the tech community.
+I'm always open to collaborating with other developers, contributing to exciting projects, or exploring new opportunities in the tech industry.
+
+> 📬 **Feel free to reach out and connect!**
+
 
 ---
 
