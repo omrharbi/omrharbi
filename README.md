@@ -6,32 +6,34 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rharbi-899679168/) 
 <br>
-# 👋 Hi, I'm Omar Rharbi
+# 👋 Hello, I'm Omar Rharbi
 
-**🚀 Full Stack Developer at [**Zone 01 Oujda**](https://zone01oujda.ma)** 
-Specializing in building robust web applications with modern technologies. Passionate about solving complex problems through clean code and continuous learning in a peer-to-peer, project-based environment.
-**Tech Stack:** Java | Spring Boot | Angular | Next.js | Golang | Rust | PostgreSQL | Docker
+## 🚀 Full Stack Developer | Zone01 Oujda
+
+I'm a passionate Full Stack Developer building scalable web applications across the entire stack. Currently honing my skills at Zone01 Oujda through innovative, project-based learning.
+
+### 💻 What I Do
+- 🔧 Building robust backend systems with **Spring Boot**
+- 🎨 Developing responsive frontend applications with **Angular/Next.js**
+- 🗄️ Working with databases like **PostgreSQL**
+- 📦 Containerizing applications with **Docker**
+- 🔄 Creating **REST APIs** and real-time features
+
+### 🛠 Technical Skills
+**Programming Languages:** Java • JavaScript • Golang • Rust  
+**Frontend:** Angular • Next.js • TypeScript • HTML5 • CSS3 • Bootstrap  
+**Backend:** Spring Boot • Spring Security • Node.js  
+**Databases:** PostgreSQL • MySQL • SQLite  
+**DevOps & Tools:** Docker • Git • GitHub • Postman • REST APIs • WebSockets
+
+### 📫 Let's Connect
+- 📧 Email: rharbiomar@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/omarrharbi](https://linkedin.com/in/omarrharbi)
+- 📍 Location: Oujda, Morocco
+
 ---
 
-## 💡 What I Do
-
-- 🛠 Learning and mastering programming concepts through real-world projects  
-- 🤝 Collaborating with peers to build scalable, efficient solutions  
-- 🔍 Exploring new technologies and staying up to date with industry trends  
-
----
-
-## 🧠 Skills & Tools
-
-### 🌐 Frontend
-`HTML` · `CSS` · `JavaScript` · `Next.js`
-
-### ⚙️ Backend
-`Node.js` · `Golang` · `Rust` · `Java`
-
-### 🗄️ Databases
-`SQL Server` · `MySQL`
-
+⭐ *From [omarrharbi](https://github.com/omarrharbi)*
 ---
 
 ## 🎯 Interests
