@@ -54,30 +54,44 @@ I'm always open to collaborating with other developers, contributing to exciting
 ## My Repositories
 
 <p align="center">
-  <!-- Add your repositories here -->
-   <a href="https://github.com/omrharbi/01-blog">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=01-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="01 Blog Repo"/>
+  <!-- 01 Blog -->
+  <a href="https://github.com/omrharbi/01-blog">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=01-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="01 Blog Repo"/>
   </a>
+  <p align="center"><strong>01 Blog</strong> - Full-stack social blogging platform built with Angular and Spring Boot</p>
 
-  
+  <!-- Real Time Forum -->
   <a href="https://github.com/omrharbi/real-time-forum">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=real-time-forum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Real Time Forum Repo"/>
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=real-time-forum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Real Time Forum Repo"/>
   </a>
+  <p align="center"><strong>Real Time Forum</strong> - Interactive discussion platform with WebSocket integration</p>
 
-  <!-- Repository 2: mini-framework -->
+  <!-- Mini Framework -->
   <a href="https://github.com/omrharbi/mini-framework">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
   </a>
+  <p align="center"><strong>Mini Framework</strong> - Custom JavaScript DOM manipulation library</p>
 
-  <!-- Repository 3: social-network -->
+  <!-- Social Network -->
   <a href="https://github.com/omrharbi/social-network">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=social-network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Social Network Repo"/>
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=social-network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Social Network Repo"/>
   </a>
+  <p align="center"><strong>Social Network</strong> - Web application for social interactions and user connections</p>
 
+  <!-- Bomberman -->
   <a href="https://github.com/omrharbi/bomberman">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=bomberman&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Bomber Man Repo"/>
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=bomberman&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Bomber Man Repo"/>
   </a>
+  <p align="center"><strong>Bomberman</strong> - Interactive multiplayer game with real-time features</p>
+
+  <!-- 0-Shell -->
+  <a href="https://github.com/omrharbi/0-shell">
+    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=0-shell&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="0-Shell Repo"/>
+  </a>
+  <p align="center"><strong>0-Shell</strong> - Custom Unix shell built with Rust for systems programming</p>
   
 </p>
+
+<br>
 
 <a href="https://github.com/omrharbi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
