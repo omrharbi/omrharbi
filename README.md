@@ -55,6 +55,11 @@ I'm always open to collaborating with other developers, contributing to exciting
 
 <p align="center">
   <!-- Add your repositories here -->
+   <a href="https://github.com/omrharbi/01-blog">
+    <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=01-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="01 Blog Repo"/>
+  </a>
+
+  
   <a href="https://github.com/omrharbi/real-time-forum">
     <img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=real-time-forum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Real Time Forum Repo"/>
   </a>
