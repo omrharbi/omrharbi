@@ -33,9 +33,6 @@ I'm a passionate Full Stack Developer building scalable web applications across 
 
 ---
 
-⭐ *From [omarrharbi](https://github.com/omarrharbi)*
----
-
 ## 🎯 Interests
 
 - 🧩 Problem Solving · Algorithms  
