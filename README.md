@@ -52,8 +52,7 @@ I'm always open to collaborating with other developers, contributing to exciting
 ---
 
 ## My Repositories
-
-<p align="center">
+ <p align="center">
   <!-- 01 Blog -->
   <a href="https://github.com/omrharbi/01-blog">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=01-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="01 Blog Repo"/>
@@ -83,12 +82,6 @@ I'm always open to collaborating with other developers, contributing to exciting
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=bomberman&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Bomber Man Repo"/>
   </a>
   <p align="center"><strong>Bomberman</strong> - Interactive multiplayer game with real-time features</p>
-
-  <!-- 0-Shell -->
-  <a href="https://github.com/omrharbi/0-shell">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=0-shell&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="0-Shell Repo"/>
-  </a>
-  <p align="center"><strong>0-Shell</strong> - Custom Unix shell built with Rust for systems programming</p>
   
 </p>
 
