@@ -8,10 +8,9 @@
 <br>
 # 👋 Hi, I'm Omar Rharbi
 
-🚀 **Software Developer** and passionate learner at [**Zone 01 Oujda**](https://zone01oujda.ma), an innovative coding school based on peer-to-peer learning and real-world, project-based education.
-
-I specialize in building robust web applications, solving complex problems, and continuously evolving as a **full-stack developer** — from **Frontend ➜ Backend**.
-
+**🚀 Full Stack Developer at [**Zone 01 Oujda**](https://zone01oujda.ma)** 
+Specializing in building robust web applications with modern technologies. Passionate about solving complex problems through clean code and continuous learning in a peer-to-peer, project-based environment.
+**Tech Stack:** Java | Spring Boot | Angular | Next.js | Golang | Rust | PostgreSQL | Docker
 ---
 
 ## 💡 What I Do
