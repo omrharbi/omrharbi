@@ -56,7 +56,6 @@ I'm always open to collaborating with other developers, contributing to exciting
   <!-- Add your repositories here -->
    <a href="https://github.com/omrharbi/01-blog">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=01-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="01 Blog Repo"/>
-        <p align="center"><strong>01 Blog</strong> - Full-stack social blogging platform built with Angular and Spring Boot</p>
 
   </a>
 
