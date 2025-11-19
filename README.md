@@ -27,7 +27,7 @@ I'm a passionate Full Stack Developer building scalable web applications across 
 **DevOps & Tools:** Docker • Git • GitHub • Postman • REST APIs • WebSockets
 
 ### 📫 Let's Connect
-- 📧 Email: rharbiomar@gmail.com
+- 📧 Email: rharbuomar@gmail.com / omrharbi@proton.me
 - 💼 LinkedIn: [linkedin.com/in/omarrharbi](https://linkedin.com/in/omarrharbi)
 - 📍 Location: Oujda, Morocco
 
