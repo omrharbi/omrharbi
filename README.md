@@ -6,6 +6,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-rharbi-899679168/) 
 <br>
+
 # 👋 Hello, I'm Omar Rharbi
 
 ## 🚀 Full Stack Developer | Zone01 Oujda
@@ -26,6 +27,17 @@ I'm a passionate Full Stack Developer building scalable web applications across 
 **Databases:** PostgreSQL • MySQL • SQLite  
 **DevOps & Tools:** Docker • Git • GitHub • Postman • REST APIs • WebSockets
 
+### 🧠 Soft Skills
+- 🤝 Team Collaboration & Communication  
+- 💡 Critical Thinking & Problem Solving  
+- 🕒 Time Management & Prioritization  
+- 🌱 Adaptability & Continuous Learning  
+- 🎯 Goal-Oriented & Detail-Focused  
+
+### 🌐 My Emage.me Profile
+Check out my full professional profile here:  
+[![Emage.me](https://img.shields.io/badge/Emage.me-Omar_Rharbi-informational?style=flat-square&logo=emage&logoColor=white)](https://cv.emage-me.com/me/omar-rharbi-HRTMT63TUenZLx9VouVT)
+
 ### 📫 Let's Connect
 - 📧 Email: rharbuomar@gmail.com / omrharbi@proton.me
 - 💼 LinkedIn: [linkedin.com/in/omarrharbi](https://linkedin.com/in/omarrharbi)
@@ -34,7 +46,6 @@ I'm a passionate Full Stack Developer building scalable web applications across 
 ---
 
 ## 🎯 Interests
-
 - 🧩 Problem Solving · Algorithms  
 - 💻 Software & Web Development  
 - 📚 Continuous Learning & Innovation  
@@ -43,33 +54,26 @@ I'm a passionate Full Stack Developer building scalable web applications across 
 ---
 
 ## 🤝 Let's Connect!
-
 I'm always open to collaborating with other developers, contributing to exciting projects, or exploring new opportunities in the tech industry.
 
 > 📬 **Feel free to reach out and connect!**
 
-
 ---
 
 ## My Repositories
- <p align="center">
-  <!-- Add your repositories here -->
-   <a href="https://github.com/omrharbi/01-blog">
+<p align="center">
+  <a href="https://github.com/omrharbi/01-blog">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=01-blog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="01 Blog Repo"/>
-
   </a>
 
-  
   <a href="https://github.com/omrharbi/real-time-forum">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=real-time-forum&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Real Time Forum Repo"/>
   </a>
 
-  <!-- Repository 2: mini-framework -->
   <a href="https://github.com/omrharbi/mini-framework">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=mini-framework&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Mini Framework Repo"/>
   </a>
 
-  <!-- Repository 3: social-network -->
   <a href="https://github.com/omrharbi/social-network">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=social-network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Social Network Repo"/>
   </a>
@@ -77,7 +81,6 @@ I'm always open to collaborating with other developers, contributing to exciting
   <a href="https://github.com/omrharbi/bomberman">
     <img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=omrharbi&repo=bomberman&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Bomber Man Repo"/>
   </a>
-  
 </p>
 
 <a href="https://github.com/omrharbi?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
